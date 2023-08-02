@@ -1,13 +1,21 @@
 # odin-recipes
-The purpose of this project is to test how much I've learned from the past
-several lessons. The skills I'll be demonstrating include: 
-    - Creating a website using html
-    - Creating boilerplate from memory
-    - Making atomic commits
-    - Making strong, concise commit messages
-    - Using the command line to commit
-    - Using tags to create lists, headers, italics, bold, etc.
-    - Adding images to the site
-    - Adding links for navigation between multiple pages
-    - Following rules of proper commit messages
+
+## Description
+
+This page of recipes was created to test myself on the information I've learned thus far in The Odin Project. Throughout the course I expect to return to this project to improve upon it with freshly acquired knowledge in working with HTML, CSS, and JavaScript.
     
+## Installation
+
+N/A
+
+## Usage
+
+Fill in information on how to best utilize this project
+
+## Credits
+
+N/A
+
+## License
+
+Unlicensed
